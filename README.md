@@ -45,7 +45,7 @@ pip install pandas scikit-learn
 
 python index.py
 
-# 📊 Resultado
+## 📊 Resultado
 
 Após treinar e testar o modelo, foram exibidos:
 
@@ -55,7 +55,7 @@ Após treinar e testar o modelo, foram exibidos:
 
 Essas métricas permitem avaliar o desempenho do classificador na detecção de casos de dengue.
 
-# 📚 Aprendizados
+## 📚 Aprendizados
 
 - Uso do ambiente virtual (venv)
 
